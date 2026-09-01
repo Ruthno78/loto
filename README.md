@@ -1,2 +1,2 @@
 # loto
-deskri
+deskri 
